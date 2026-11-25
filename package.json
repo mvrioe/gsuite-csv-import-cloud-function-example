@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/mespinozas/gsuite-csv-import-cloud-function-example#readme",
   "dependencies": {
-    "@google-cloud/storage": "^5.1.2",
+    "@google-cloud/storage": "^5.20.5",
     "googleapis": "^52.1.0"
   }
 }
